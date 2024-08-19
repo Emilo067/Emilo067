@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-### 𝕄𝕪 <a href='https://emilo067.github.io/Portfolio/'>ℹ Portfolio</a> 𝕒𝕟d 𝕥𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕪 𝕤𝕥𝕒𝕔𝕜
+### My <a href='https://emilo067.github.io/Portfolio/'>ℹ Portfolio</a> and technology stack
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
