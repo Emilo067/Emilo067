@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![RadixUI](https://img.shields.io/badge/-RadixUI-333?style=for-the-badge&logo=RadixUI)
+![SHADCN](https://img.shields.io/badge/-ShadCN-333?style=for-the-badge&logo=shadcnui)
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333?style=for-the-badge&logo=MUI)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
